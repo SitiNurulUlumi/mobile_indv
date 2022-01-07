@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Nurul/app/src/main/res/layout/card_profil.xml" value="0.1796875" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/activity_main1.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/card_profil.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/layout_main.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/layout/navigation_header.xml" value="0.1" />
+        <entry key="..\:/Users/rianp/Downloads/android/Rian pratama/app/src/main/res/menu/menu_drawer.xml" value="0.1" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/activity_login.xml" value="0.26541554959785524" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/activity_main.xml" value="0.29389312977099236" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.6" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/card_fb.xml" value="0.3333333333333333" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/card_ig.xml" value="0.12261146496815287" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/card_profil.xml" value="0.21166306695464362" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/layout_maiin.xml" value="0.12" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/layout_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/layout/nav_head.xml" value="0.3333333333333333" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/menu/menu_drawer.xml" value="0.1796875" />
+        <entry key="..\:/iniMobileBro-main/app/src/main/res/menu/navigation_menu.xml" value="0.1796875" />
+        <entry key="..\:/kuliah/semester 5/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/kuliah/semester 5/app/src/main/res/layout/navigation_header.xml" value="0.22" />
+        <entry key="..\:/kuliah/semester 5/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
